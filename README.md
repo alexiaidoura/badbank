@@ -1,2 +1,13 @@
 # badbank
-bad bank portfolio project -- standalone react app
+
+# description
+
+# installation guidelines
+
+# screenshots
+
+# technology used
+
+# features
+
+# license 
